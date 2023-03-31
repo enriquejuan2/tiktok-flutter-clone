@@ -28,17 +28,17 @@ environment:
 # versions available, run `flutter pub outdated`.
 dependencies:
   cached_network_image: ^3.2.0
-  cloud_firestore: ^3.1.6
+  cloud_firestore: ^4.5.0
   cupertino_icons: ^1.0.2
-  firebase_auth: ^3.3.5
-  firebase_core: ^1.11.0
-  firebase_storage: ^10.2.5
+  firebase_auth: ^4.4.0
+  firebase_core: ^2.9.0
+  firebase_storage: ^11.1.0
   flutter:
     sdk: flutter
   get: ^4.6.1
   image_picker: ^0.8.4+4
   timeago: ^3.1.0
-  video_compress: ^3.1.0
+  video_compress: ^3.1.2
   video_player: ^2.2.11
 
 dev_dependencies:
